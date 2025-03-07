@@ -1,0 +1,14 @@
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\bin\Debug\net9.0\class_28-02-2025.exe
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\bin\Debug\net9.0\class_28-02-2025.deps.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\bin\Debug\net9.0\class_28-02-2025.runtimeconfig.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\bin\Debug\net9.0\class_28-02-2025.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\bin\Debug\net9.0\class_28-02-2025.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.AssemblyInfoInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.AssemblyInfo.cs
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.csproj.CoreCompileInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\refint\class_28-02-2025.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\class_28-02-2025.genruntimeconfig.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Semana 4\class_28-02-2025\obj\Debug\net9.0\ref\class_28-02-2025.dll
