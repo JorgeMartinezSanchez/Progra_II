@@ -1,0 +1,14 @@
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\bin\Debug\net9.0\Ahoracdo.exe
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\bin\Debug\net9.0\Ahoracdo.deps.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\bin\Debug\net9.0\Ahoracdo.runtimeconfig.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\bin\Debug\net9.0\Ahoracdo.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\bin\Debug\net9.0\Ahoracdo.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.AssemblyInfoInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.AssemblyInfo.cs
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.csproj.CoreCompileInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\refint\Ahoracdo.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\Ahoracdo.genruntimeconfig.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\Ahoracdo\obj\Debug\net9.0\ref\Ahoracdo.dll
