@@ -1,0 +1,7 @@
+Singleton.- Una clase que solo puede tener una instancia definida.
+
+Hilos .- sub-acciones de un proceso que puede encargarse de cierta cosa en especifico. (Ejemplo: Pizzero hace pizza, su mano es un hilo, y se encarga de amasar el pan y la otra mano, un segundo hilo, puede encargarse de poner el queso. Todo al mismo tiempo en el proceso de preparar pizza).
+
+Proceso: Preparar pizza.
+|_ Hilo 1: Amasar el pan.
+|_ Hilo 2: Poner el queso.

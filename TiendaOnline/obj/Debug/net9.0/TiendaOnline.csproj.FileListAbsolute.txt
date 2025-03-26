@@ -1,0 +1,14 @@
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\bin\Debug\net9.0\TiendaOnline.exe
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\bin\Debug\net9.0\TiendaOnline.deps.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\bin\Debug\net9.0\TiendaOnline.runtimeconfig.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\bin\Debug\net9.0\TiendaOnline.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\bin\Debug\net9.0\TiendaOnline.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.AssemblyInfoInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.AssemblyInfo.cs
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.csproj.CoreCompileInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\refint\TiendaOnline.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\TiendaOnline.genruntimeconfig.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\Tarea\TiendaOnline\obj\Debug\net9.0\ref\TiendaOnline.dll
