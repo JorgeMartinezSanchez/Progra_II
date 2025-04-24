@@ -1,0 +1,14 @@
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\bin\Debug\net9.0\ExamenRecuperatorio.exe
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\bin\Debug\net9.0\ExamenRecuperatorio.deps.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\bin\Debug\net9.0\ExamenRecuperatorio.runtimeconfig.json
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\bin\Debug\net9.0\ExamenRecuperatorio.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\bin\Debug\net9.0\ExamenRecuperatorio.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.AssemblyInfoInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.AssemblyInfo.cs
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\refint\ExamenRecuperatorio.dll
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.pdb
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ExamenRecuperatorio.genruntimeconfig.cache
+C:\Users\JORGE MARTINEZ S\Desktop\UCB\Semestre III\Programación II\ExamenRecuperatorio\obj\Debug\net9.0\ref\ExamenRecuperatorio.dll
