@@ -1,0 +1,20 @@
+<div class="bar">
+    <button class="add_suggest" (click)="goToSummitMenu()">Add</button>
+    <button class="edit_suggest">Edit</button>
+    <button class="delete_suggest">Delete</button>
+</div>
+
+<div class="table">
+  <div *ngFor="let row of list; let i = index" class="suggets">
+      <ng-container *ngFor="let cell of row; let j = index">
+        <div class="cell" *ngIf="cell.OccupiedSlot">
+          <h3>{{cell.Title}}</h3>
+          <p>{{cell.Cat}}</p>
+          <p>{{cell.Desc}}</p>
+        </div>
+        <div class="empty-cell" *ngIf="!cell.OccupiedSlot">
+          <!-- Celda vacía -->
+        </div>
+      </ng-container>
+  </div>
+</div>
