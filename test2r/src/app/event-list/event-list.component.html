@@ -1,0 +1,37 @@
+<div class="cerate-popup">
+    <h1>Crear evento</h1>
+    <div class="Nombre-Entry">
+        <p>Nombre</p>
+        <input #Nombre type="text" placeholder="Nombre"> 
+    </div>
+
+    <div class="Descripcion-Entry">
+        <p>Description</p>
+        <input #Descript type="text" placeholder="Descripcion">
+    </div>
+
+    <div class="Date-entry">
+        <p>Fecha</p>
+        <input #Fecha type="text" placeholder="Fecha">
+    </div>
+
+    <div class="Event-entry">
+        <p>Evento</p>
+        <input #Fecha type="text" placeholder="Tipo de Evento">
+    </div>
+
+    <div class="Event-state-entry">
+        <p>Fecha</p>
+        <input #Fecha type="text" placeholder="Estado de Evento">
+    </div>
+
+    <button (click)=""></button>
+</div>
+
+<div class="events">
+    @for (item of {{EventListComponent.list}}; track $index) {
+        @for ({{EventListComponent.list[item]}} of items; track $index) {
+            
+        }
+    }
+</div>
